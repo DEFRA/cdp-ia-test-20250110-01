@@ -4,7 +4,7 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=DEFRA_cdp-ia-test-20250110-01&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=DEFRA_cdp-ia-test-20250110-01)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=DEFRA_cdp-ia-test-20250110-01&metric=coverage)](https://sonarcloud.io/summary/new_code?id=DEFRA_cdp-ia-test-20250110-01)
 
-Core delivery platform Node.js Frontend Template.
+Core delivery platform Node.js Frontend TEST.
 
 - [Requirements](#requirements)
   - [Node.js](#nodejs)
